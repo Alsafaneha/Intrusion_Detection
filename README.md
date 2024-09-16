@@ -77,7 +77,7 @@ Dataset source: [NSL-KDD Dataset](https://www.unb.ca/cic/datasets/nsl.html)
 1. Clone the repository to your local machine:
 
    ```bash
-   https://github.com/Maatrika-P/Intrusion-Detection-System.git
+   https://github.com/Alsafaneha/Intrusion-Detection-System.git
 
 2. Install the required dependencies:
    
